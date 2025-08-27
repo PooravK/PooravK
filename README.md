@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Poorav Kumar</h1>
-<h3 align="center">A passionate VLSI student from India</h3>
+# 💫 About Me:
+I am a 2nd year VLSI student currently learning the RTL to GDS2 flow step by step.<br><br>Currently I'm working on RTL Design and Verification with Verilog and SystemVerilog
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pooravk&label=Profile%20views&color=0e75b6&style=flat" alt="pooravk" /> </p>
 
-- 🔭 I’m currently working on **RTL to GDS2 flow**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/poorav._.kun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/poorav-kumar) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PooravK&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PooravK&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PooravK&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Verilog and SystemVerilog**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 👨‍💻 All of my projects are available at [https://github.com/PooravK](https://github.com/PooravK)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PooravK&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/poorav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poorav kumar" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=PooravK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooravk&show_icons=true&locale=en&layout=compact" alt="pooravk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pooravk&show_icons=true&locale=en" alt="pooravk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pooravk&" alt="pooravk" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
