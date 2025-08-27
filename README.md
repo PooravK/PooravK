@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2nd year VLSI student currently learning the RTL to GDS2 flow step by step.<br><br>Currently I'm working on RTL Design and Verification with Verilog and SystemVerilog
+I am a 2nd year VLSI student currently learning the RTL to GDS2 flow step by step.<br><br>Right now I'm working on RTL Design and Verification with Verilog and SystemVerilog
 
 
 ## 🌐 Socials:
