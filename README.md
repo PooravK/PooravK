@@ -1,5 +1,5 @@
 # 💫 Hey there!
-I am a 2nd year VLSI student currently learning the RTL to GDS2 flow step by step.<br><br>As of now I'm working on RTL Design and Verification with Verilog and SystemVerilog
+I am a 2nd year VLSI student currently learning the RTL to GDS2 flow step by step.<br><br>As of now I'm working on learning physical design using Yosys and OpenRoad
 
 ![PooravK's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PooravK&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
