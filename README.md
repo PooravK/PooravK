@@ -1,6 +1,6 @@
 # 3rd Year Student | Aspiring Physical Design Engineer
 
-# Current stack:
+## Current stack:
  - Icarus Verilog
  - GTKWave
  - Yosys
@@ -10,5 +10,5 @@
  - Verilog
  - Linux Ubuntu
 
-# Current Focus:
+## Current Focus:
  - Iterating multiple RTL to GDS2 tape out flows, learning soemthing new in each one
