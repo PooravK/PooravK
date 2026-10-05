@@ -10,8 +10,8 @@
 ### Tools:
  - Icarus Verilog
  - GTKWave
- - Yosys
- - OpenROAD
+ - Yosys, Genus
+ - OpenROAD, Innovus
 
 ## Current Focus:
  - Iterating multiple RTL to GDS2 tape out flows, learning something new in each one
